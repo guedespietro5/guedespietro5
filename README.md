@@ -42,7 +42,7 @@
     <h3>🔨 tools & other</h3>
      <img align="center" src="https://skillicons.dev/icons?i=postman" />
      <img align="center" src="https://skillicons.dev/icons?i=git" />
-     <img align="center" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg'>
+     <img align="center" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg'/>
   </div>
   
   <br>
