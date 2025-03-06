@@ -1,15 +1,16 @@
 ## Olá! Sou o Pietro Guedes.
 <div align="center">
-  <a href="https://github.com/guedespietro5">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=guedespietro5&theme=dracula&area=true&hide_border=true&custom_title=Contribuições%20no%20GitHub" />
+  
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guedespietro5&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
+  <h1>Linguagens:</h1>
             <img src="https://skillicons.dev/icons?i=php" />
             <img src="https://skillicons.dev/icons?i=js" />
-            <img src="https://skillicons.dev/icons?i=nodejs" />
-            <img src="https://skillicons.dev/icons?i=kotlin" />
+<!--             <img src="https://skillicons.dev/icons?i=nodejs" /> -->
+<!--             <img src="https://skillicons.dev/icons?i=kotlin" /> -->
             <img src="https://skillicons.dev/icons?i=python" />
-            <img src="https://skillicons.dev/icons?i=docker" />
+<!--             <img src="https://skillicons.dev/icons?i=docker" />
             <img src="https://skillicons.dev/icons?i=cs" />
             <img src="https://skillicons.dev/icons?i=laravel" />
             <img src="https://skillicons.dev/icons?i=aws" />
@@ -25,9 +26,9 @@
             <img src="https://skillicons.dev/icons?i=tailwind" />
             <img src="https://skillicons.dev/icons?i=css" />
             <img src="https://skillicons.dev/icons?i=html" />
-            <img src="https://skillicons.dev/icons?i=postman" />
+            <img src="https://skillicons.dev/icons?i=postman" /> -->
             <img src="https://skillicons.dev/icons?i=java" />
-            <img src="https://skillicons.dev/icons?i=figma" />
+<!--             <img src="https://skillicons.dev/icons?i=figma" /> -->
             <img height="48" width="48" id="n8n" src="https://avatars.githubusercontent.com/u/45487711?s=48&v=4" />
             <img height="48" width="48" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg'>
 
