@@ -72,7 +72,7 @@
     <h3>🔨 tools & other</h3>
      <img align="center" src="https://skillicons.dev/icons?i=postman" />
      <img align="center" src="https://skillicons.dev/icons?i=git" />
-     <img align="center" alt="Zabbix" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Zabbix_logo.svg/512px-Zabbix_logo.svg.png">
+     <img align="center" alt="Zabbix" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zabbix/zabbix-original.svg">
      <img align="center" alt="DBeaver" height="40" width="50" src="https://dbeaver.io/wp-content/uploads/2015/09/logo_dbeaver.png">
     
   </div>
