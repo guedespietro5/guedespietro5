@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Pietro Guedes.👋</h1>
+<h1 align="center">Hi! I'm Pietro Guedes 👋</h1>
 <h3 align="center">A passionate software development student.</h3><br>
 
 - 🔧 Currently working in **Equipment Monitoring**
