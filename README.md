@@ -72,7 +72,7 @@
     <h3>🔨 tools & other</h3>
      <img align="center" src="https://skillicons.dev/icons?i=postman" />
      <img align="center" src="https://skillicons.dev/icons?i=git" />
-     <img align="center" alt="Zabbix" height="40" width="50" src="https://www.zabbix.com/sites/default/files/styles/medium/public/image/logo/zabbix_logo_0.png">
+     <img height="48" width="48" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg'>
   </div>
   
   <br>
