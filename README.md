@@ -67,6 +67,14 @@
      <img align="center" src="https://skillicons.dev/icons?i=nodejs" />
     
   </div>
+
+  <div style="flex-basis: 48%;">
+    <h3>🔨 tools & other</h3>
+     <img align="center" src="https://skillicons.dev/icons?i=postman" />
+     <img align="center" src="https://skillicons.dev/icons?i=dbeaver" />
+     <img align="center" src="https://skillicons.dev/icons?i=zabbix" />
+    
+  </div>
   
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
