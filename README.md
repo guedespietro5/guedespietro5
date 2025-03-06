@@ -4,14 +4,9 @@
  <h2>Movido por desafios e pela busca por excelência.</h2>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guedespietro5&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-- 📫 How to reach me <b>guedesdev5@gmail.com</b>
+- 📫 Where to find me? <b>guedesdev5@gmail.com</b>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-     <a href="https://www.instagram.com/guedeszx5/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:guedesdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/pietro-guedes-88394a253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</p>
+
 
 <div style="display: inline_block"><br>
   <h1>Linguagens:</h1>
@@ -43,11 +38,13 @@
 <!--             <img height="48" width="48" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg'> -->
 
 </div>
-  
-  ##
- 
-<div> 
- 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+     <a href="https://www.instagram.com/guedeszx5/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "mailto:guedesdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/pietro-guedes-88394a253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</p>
  
   <br>
 <picture>
