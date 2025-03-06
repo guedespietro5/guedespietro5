@@ -29,8 +29,8 @@
             <img src="https://skillicons.dev/icons?i=postman" /> -->
             <img src="https://skillicons.dev/icons?i=java" />
 <!--             <img src="https://skillicons.dev/icons?i=figma" /> -->
-            <img height="48" width="48" id="n8n" src="https://avatars.githubusercontent.com/u/45487711?s=48&v=4" />
-            <img height="48" width="48" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg'>
+<!--             <img height="48" width="48" id="n8n" src="https://avatars.githubusercontent.com/u/45487711?s=48&v=4" /> -->
+<!--             <img height="48" width="48" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg'> -->
 
 </div>
   
