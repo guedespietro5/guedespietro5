@@ -1,7 +1,7 @@
 ## Olá! Sou o Pietro Guedes.
 <div align="center">
   <a href="https://github.com/guedespietro5">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guedespietro5&theme=dracula" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guedespietro5&theme=dracula&area=true&hide_border=true&custom_title=Contribuições%20no%20GitHub" />
 </div>
 <div style="display: inline_block"><br>
             <img src="https://skillicons.dev/icons?i=php" />
