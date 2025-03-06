@@ -4,7 +4,7 @@
 - 🔧 Currently working in **Equipment Monitoring**
 - 💡 Junior **Developer**, always learning and evolving
 - 🎯 Focus on **automation, telemetry, and data analysis**
-- 🛠️ Technologies: **Zabbix, Python, PostgreSQL, Docker, Linux**
+- 🛠️ Tools: **Zabbix, Python, PostgreSQL, Docker, Linux**
 - 🤖 Passionate about solving problems with code!
 
 ## Skills
