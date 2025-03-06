@@ -1,12 +1,9 @@
 ## Hi! I'm Pietro Guedes.👋
 
 <div align="center">
- <h2>Movido por desafios e pela busca por excelência.</h2>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guedespietro5&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <h2> A passionate software development student.</h2>
+<!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guedespietro5&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
 </div>
-- 📫 Where to find me? <b>guedesdev5@gmail.com</b>
-
-
 
 <div style="display: inline_block"><br>
   <h1>Linguagens:</h1>
@@ -39,7 +36,7 @@
 
 </div>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Where find me?</h3>
 <p align="left">
      <a href="https://www.instagram.com/guedeszx5/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:guedesdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
