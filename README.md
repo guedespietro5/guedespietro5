@@ -39,11 +39,12 @@
   </div>
 
   <div style="flex-basis: 48%;">
-    <h3>🔨 tools & other</h3>
-     <img align="center" src="https://skillicons.dev/icons?i=postman" />
-     <img align="center" src="https://skillicons.dev/icons?i=git" />
-     <img align="center" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg'/>
-  </div>
+    <h3>🔨 Tools & Other</h3>
+    <img align="center" src="https://skillicons.dev/icons?i=postman" />
+    <img align="center" src="https://skillicons.dev/icons?i=git" />
+    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"/>
+</div>
+
   
   <br>
 <picture>
