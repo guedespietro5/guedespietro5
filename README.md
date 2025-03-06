@@ -42,15 +42,27 @@
 ## Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
+    <h3>💻 Programming Languages</h3>
     <img align="center" src="https://skillicons.dev/icons?i=js" />
     <img align="center" src="https://skillicons.dev/icons?i=python" /> 
-    <img align="center" src="https://skillicons.dev/icons?i=php">
+    <img align="center" src="https://skillicons.dev/icons?i=cs">
     <img align="center" src="https://skillicons.dev/icons?i=ruby" />
-          
+    <img align="center" src="https://skillicons.dev/icons?i=java" />    
+  </div>
+
+   <div style="flex-basis: 48%;">
+    <h3>🎲 server-side</h3>
+     <img align="center" src="https://skillicons.dev/icons?i=mysql" />
+     <img align="center" src="https://skillicons.dev/icons?i=postgresql" />
+     <img align="center" src="https://skillicons.dev/icons?i=sqlite" />
+     <img align="center" src="https://skillicons.dev/icons?i=docker" />
+    <img align="center" alt="NestJS" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+    <img align="center" alt="AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+    <img align="center" alt="Arduino" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"> 
+    <img align="center" alt="Postgres" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+    <img align="center" alt="MySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
   </div>
   
-  <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="NodeJS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
@@ -59,7 +71,8 @@
     <img align="center" alt="Arduino" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"> 
     <img align="center" alt="Postgres" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
     <img align="center" alt="MySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
- 
+  </div>
+  
   <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vic1707/vic1707/blob/output/github-snake-dark.svg">
