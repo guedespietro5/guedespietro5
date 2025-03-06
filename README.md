@@ -55,7 +55,7 @@
      <img align="center" src="https://skillicons.dev/icons?i=postgresql" />
      <img align="center" src="https://skillicons.dev/icons?i=sqlite" />
      <img align="center" src="https://skillicons.dev/icons?i=docker" />
-    
+     <img align="center" src="https://skillicons.dev/icons?i=mongodb" />
   </div>
 
   <div style="flex-basis: 48%;">
@@ -64,7 +64,7 @@
      <img align="center" src="https://skillicons.dev/icons?i=vue" />
      <img align="center" src="https://skillicons.dev/icons?i=react" />
      <img align="center" src="https://skillicons.dev/icons?i=flask" />
-     <img align="center" src="https://skillicons.dev/icons?i=tkinter" />
+     <img align="center" src="https://skillicons.dev/icons?i=nodejs" />
     
   </div>
   
