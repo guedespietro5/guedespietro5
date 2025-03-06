@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Pietro Guedes.👋</h1>
-<h3 align="center">A passionate software development student.</h3>
+<h3 align="center">A passionate software development student.</h3><br>
 
 - 🔧 Currently working in **Equipment Monitoring**
 - 💡 Junior **Developer**, always learning and evolving
@@ -8,7 +8,6 @@
 - 🤖 Passionate about solving problems with code!
 
 ## Skills
-<!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>💻 Programming Languages</h3>
     <img align="center" src="https://skillicons.dev/icons?i=js" />
