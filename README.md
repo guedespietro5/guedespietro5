@@ -1,4 +1,4 @@
-## Opa, eu sou o Emmanuel Yokoyama!
+## Olá! Sou o Pietro Guedes.
 <div align="center">
   <a href="https://github.com/guedespietro5">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guedespietro5&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
