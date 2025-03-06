@@ -4,7 +4,7 @@
  <h2>Movido por desafios e pela busca por excelência.</h2>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guedespietro5&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-- 📫 How to reach me **guedesdev5@gmail.com**
+- 📫 How to reach me <b>guedesdev5@gmail.com</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
