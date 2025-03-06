@@ -31,8 +31,7 @@
 <!--             <img height="48" width="48" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg'> -->
 
 </div>
-
-<h3 align="left">Where find me?</h3>
+## Where find me?
 <p align="left">
      <a href="https://www.instagram.com/guedeszx5/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:guedesdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -44,9 +43,9 @@
   <div style="flex-basis: 48%;">
     <h3>💻 Programming Languages</h3>
     <img align="center" src="https://skillicons.dev/icons?i=js" />
-    <img align="center" src="https://skillicons.dev/icons?i=python" /> 
-    <img align="center" src="https://skillicons.dev/icons?i=cs">
+    <img align="center" src="https://skillicons.dev/icons?i=python" />
     <img align="center" src="https://skillicons.dev/icons?i=ruby" />
+    <img align="center" src="https://skillicons.dev/icons?i=cs">
     <img align="center" src="https://skillicons.dev/icons?i=java" />    
   </div>
 
@@ -56,11 +55,17 @@
      <img align="center" src="https://skillicons.dev/icons?i=postgresql" />
      <img align="center" src="https://skillicons.dev/icons?i=sqlite" />
      <img align="center" src="https://skillicons.dev/icons?i=docker" />
-    <img align="center" alt="NestJS" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-    <img align="center" alt="AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-    <img align="center" alt="Arduino" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"> 
-    <img align="center" alt="Postgres" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-    <img align="center" alt="MySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+    
+  </div>
+
+  <div style="flex-basis: 48%;">
+    <h3>📚 libraries & frameworks</h3>
+     <img align="center" src="https://skillicons.dev/icons?i=rails" />
+     <img align="center" src="https://skillicons.dev/icons?i=vue" />
+     <img align="center" src="https://skillicons.dev/icons?i=react" />
+     <img align="center" src="https://skillicons.dev/icons?i=flask" />
+     <img align="center" src="https://skillicons.dev/icons?i=tkinter" />
+    
   </div>
   
   <div style="flex-basis: 48%;">
