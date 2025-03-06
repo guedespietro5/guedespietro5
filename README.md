@@ -18,7 +18,7 @@
   </div>
 
    <div style="flex-basis: 48%;">
-    <h3>🎲 server-side</h3>
+    <h3>🎲 Server-side</h3>
      <img align="center" src="https://skillicons.dev/icons?i=mysql" />
      <img align="center" src="https://skillicons.dev/icons?i=postgresql" />
      <img align="center" src="https://skillicons.dev/icons?i=sqlite" />
@@ -27,7 +27,7 @@
   </div>
 
   <div style="flex-basis: 48%;">
-    <h3>📚 libraries & frameworks</h3>
+    <h3>📚 Libraries & frameworks</h3>
      <img align="center" src="https://skillicons.dev/icons?i=rails" />
      <img align="center" src="https://skillicons.dev/icons?i=vue" />
      <img align="center" src="https://skillicons.dev/icons?i=react" />
