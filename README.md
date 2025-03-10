@@ -22,8 +22,8 @@
      <img align="center" src="https://skillicons.dev/icons?i=mysql" />
      <img align="center" src="https://skillicons.dev/icons?i=postgresql" />
      <img align="center" src="https://skillicons.dev/icons?i=sqlite" />
-     <img align="center" src="https://skillicons.dev/icons?i=docker" />
      <img align="center" src="https://skillicons.dev/icons?i=mongodb" />
+     <img align="center" src="https://skillicons.dev/icons?i=docker" />
   </div>
 
   <div style="flex-basis: 48%;">
