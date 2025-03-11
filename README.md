@@ -17,6 +17,7 @@
     <img align="center" src="https://skillicons.dev/icons?i=cs">   
   </div>
 
+
    <div style="flex-basis: 48%;">
     <h3>🎲 Server-side</h3>
      <img align="center" src="https://skillicons.dev/icons?i=mysql" />
