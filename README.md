@@ -34,6 +34,7 @@
      <img align="center" src="https://skillicons.dev/icons?i=react" />
      <img align="center" src="https://skillicons.dev/icons?i=flask" />
      <img align="center" src="https://skillicons.dev/icons?i=nodejs" />
+     <img align="center" src="https://skillicons.dev/icons?i=tkinter" />
     
   </div>
 
