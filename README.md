@@ -5,7 +5,7 @@
 - 💡 Junior **Developer**, always learning and evolving
 - 🎯 Focus on **automation, telemetry, and data analysis**
 - 🛠️ Tools: **Zabbix, Python, PostgreSQL, Docker, Linux**
-- 🤖 Passionate about solving problems with code!
+- 🤖 **Passionate** about solving problems with code!
 
 ## Skills
   <div style="flex-basis: 48%;">
