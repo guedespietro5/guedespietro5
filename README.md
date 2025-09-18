@@ -29,7 +29,7 @@
 
   <div style="flex-basis: 48%;">
     <h3>📚 Libraries & frameworks</h3>
-     <img align="center" src="https://skillicons.dev/icons?i=rails" />
+     <img align="center" src="https://skillicons.dev/icons?i=laravel" />
      <img align="center" src="https://skillicons.dev/icons?i=vue" />
      <img align="center" src="https://skillicons.dev/icons?i=react" />
      <img align="center" src="https://skillicons.dev/icons?i=flask" />
